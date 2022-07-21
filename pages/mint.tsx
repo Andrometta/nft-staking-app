@@ -13,7 +13,7 @@ const Mint: NextPage = () => {
 
   // Get the NFT Collection contract
   const nftDropContract = useNFTDrop(
-    "0x322067594DBCE69A9a9711BC393440aA5e3Aaca1"
+    "0x205936Ff6dE9037d6Ed74FE9bCA9382616FEd658"
   );
 
   async function claimNft() {
